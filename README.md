@@ -8,7 +8,7 @@
 
 - 🔭 Actually, I'm work in a search project in the FIOCRUZ called "Interfaces of racism and conservatism in the SUS from the ACS perspective".
 - 🌱 I study data analyst using the Python programming language in Reprograma. I am also part of the study group SOMAH - Sociabilities more than Humans, at the Federal Rural University of Rio de Janeiro.
-- Idioms: Portuguese BR, english B1 and basic espanhol.
+- Languages: Portuguese BR, english B1 and basic espanhol.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
