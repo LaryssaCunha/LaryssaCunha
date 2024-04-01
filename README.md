@@ -1,12 +1,16 @@
 ### Olá!! Sou Laryssa Cunha! Sou cria da cidade do Rio de Janeiro, Brasil, sou formada em Ciências Sociais pela UFRRJ e hoje estudo para ser futura analista de dados. 👋
-### Hi!! I'm Laryssa Cunha! I'm from Rio de Janeiro's city, Brazil. I'm graduated in Social Sciences for UFRRJ e today I study to be a future data analyst.
 
 - 🔭 Atualmente, estou trabalhando em um projeto de pesquisa na FIOCRUZ chamado "Interfaces sobre o Racismo e o Conservadorismo no SUS na perspectivas das ACS".
 - 🌱 Estudo Análise de Dados utilizando o Python na Reprograma. Também faço parte do grupo de estudos SOMAH - Sociabilidades mais que Humanas, da Universidade Federal Rural do Rio de Janeiro.
-- Idiomas: Português (BR), inglês nível B1 e espanhol básico.
+- Idiomas: Português BR, inglês B1 e espanhol básico.
+
+### Hi!! I'm Laryssa Cunha! I'm from Rio de Janeiro city, Brazil. I'm graduated in Social Sciences for UFRRJ e today I study to be a future data analyst.
+
+- 🔭 Actually, I'm work in a search project in the FIOCRUZ called "Interfaces of racism and conservatism in the SUS from the ACS perspective".
+- 🌱 I study data analyst using the Python programming language in Reprograma. I am also part of the study group SOMAH - Sociabilities more than Humans, at the Federal Rural University of Rio de Janeiro.
+- Idioms: Portuguese BR, english B1 and basic espanhol.
 
 <div style="display: inline_block"><br>
-- Linguagens de programação:
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
    
