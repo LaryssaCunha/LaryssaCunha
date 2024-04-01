@@ -6,7 +6,7 @@
 
 ### Hi!! I'm Laryssa Cunha! I'm from Rio de Janeiro city, Brazil. I'm graduated in Social Sciences for UFRRJ and today I study to be a future data analyst.
 
-- 🔭 Actually, I'm work in a search project in the FIOCRUZ called "Interfaces of racism and conservatism in the SUS from the ACS perspective".
+- 🔭 Actually, I'm working in a search project in the FIOCRUZ called "Interfaces of racism and conservatism in the SUS from the ACS perspective".
 - 🌱 I study data analyst using the Python programming language in Reprograma. I am also part of the study group SOMAH - Sociabilities more than Humans, at the Federal Rural University of Rio de Janeiro.
 - Languages: Portuguese BR, english B1 and basic espanhol.
 
