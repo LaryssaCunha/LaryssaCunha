@@ -4,7 +4,7 @@
 - 🌱 Estudo Análise de Dados utilizando o Python na Reprograma. Também faço parte do grupo de estudos SOMAH - Sociabilidades mais que Humanas, da Universidade Federal Rural do Rio de Janeiro.
 - Idiomas: Português BR, inglês B1 e espanhol básico.
 
-### Hi!! I'm Laryssa Cunha! I'm from Rio de Janeiro city, Brazil. I'm graduated in Social Sciences for UFRRJ e today I study to be a future data analyst.
+### Hi!! I'm Laryssa Cunha! I'm from Rio de Janeiro city, Brazil. I'm graduated in Social Sciences for UFRRJ and today I study to be a future data analyst.
 
 - 🔭 Actually, I'm work in a search project in the FIOCRUZ called "Interfaces of racism and conservatism in the SUS from the ACS perspective".
 - 🌱 I study data analyst using the Python programming language in Reprograma. I am also part of the study group SOMAH - Sociabilities more than Humans, at the Federal Rural University of Rio de Janeiro.
