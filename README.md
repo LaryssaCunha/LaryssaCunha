@@ -1,14 +1,16 @@
-### Olá!! Sou Laryssa Cunha! Sou cria da cidade do Rio de Janeiro, Brasil, sou formada em Ciências Sociais pela UFRRJ e hoje estudo para ser futura analista de dados. 👋
+### Olá!! Sou Laryssa Cunha! Sou cria da cidade do Rio de Janeiro, Brasil. Apaixonada por pesquisas nas áreas de diversidade, cultura, territorialidades e políticas públicas.👋
+Em meu tempo livre, curto ficar com a minha família como uma boa canceriana que sou assistindo um filminho e uma pipoca. Seja bem vinda ao meu perfil.
 
+- Em minha formação, me graduei em Ciências Sociais pela UFRRJ em 2023 e tive experiência com pesquisas qualitativas, quantitativas e coleta de dados. Também pude lecionar aulas nas disciplinas de sociologia, história e filosofia em escolas públicas e particulares.
+- Após minha graduação, fui aluna da {reprograma} em um curso intensivo(360h) de Análise de Dados e Python e em 2024, obti meu diploma de Analista de Dados Júnior, conhecendo desde a teoria à prática assuntos como lógica de programação, banco de dados, SQL, Python e Tableau. Além disso, curso também era desenvolvido para o aperfeiçoamento de hard e soft skills.
+- Ainda em 2024, iniciei minha especialização na ciência de dados, cursando o MBA em Data Science & Analytics na USP/ESALQ. A especialização abarca as temáticas de Programação, coleta de dados, Big Data, Estatística, Data Wraling, Machine Learning, Business Inteligence (BI), Metodologias Ágeis, Engenharia de Dados, Cloud Compunting e outros.
+- Gosto bastante de estudar e estou sempre procurando me aprofundar mais em minhas áreas de interesse, tanto por curiosidade quanto por crescimento profissional.
+- Minha trajetória acadêmica e profissional é marcada principalmente pelo interesse de conhecer a pluraridade de grupos e suas relações sociais, por isso, sei que meu conhecimento tecnológico e meu arcabouço teórico me traz grande capacidade analítica e de insights nas áreas humanas e sociais.
+  
 - 🔭 Atualmente, estou trabalhando em um projeto de pesquisa na FIOCRUZ chamado "Interfaces sobre o Racismo e o Conservadorismo no SUS na perspectivas das ACS".
-- 🌱 Estudo Análise de Dados utilizando o Python na Reprograma. Também faço parte do grupo de estudos SOMAH - Sociabilidades mais que Humanas, da Universidade Federal Rural do Rio de Janeiro.
-- Idiomas: Português BR, inglês B1 e espanhol básico.
+- 🌱 Também faço parte do grupo de pesquisa SOMAH - Sociabilidades mais que Humanas, da Universidade Federal Rural do Rio de Janeiro.
 
-### Hi!! I'm Laryssa Cunha! I'm from Rio de Janeiro city, Brazil. I'm graduated in Social Sciences for UFRRJ and today I study to be a future data analyst.
-
-- 🔭 Currently, I'm working in a search project in the FIOCRUZ called "Interfaces of racism and conservatism in the SUS from the ACS perspective".
-- 🌱 I study data analyst using the Python programming language in Reprograma. I am also part of the study group SOMAH - Sociabilities more than Humans, at the Federal Rural University of Rio de Janeiro.
-- Languages: Portuguese BR, english B1 and basic espanhol.
+- Idioma: Inglês Nível B2.
 
 ###
 
