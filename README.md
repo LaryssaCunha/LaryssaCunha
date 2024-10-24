@@ -11,6 +11,7 @@ Em meu tempo livre, curto ficar com a minha família como uma boa canceriana que
 - 🌱 Também faço parte do grupo de pesquisa SOMAH - Sociabilidades mais que Humanas, da Universidade Federal Rural do Rio de Janeiro.
 
 - Idioma: Inglês Nível B2.
+- LFerramentas: Python, R e SQL.
 
 ###
 
