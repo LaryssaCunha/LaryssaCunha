@@ -7,7 +7,7 @@ Em meu tempo livre, curto ficar com a minha família como uma boa canceriana que
 - Gosto bastante de estudar e estou sempre procurando me aprofundar mais em minhas áreas de interesse, tanto por curiosidade quanto por crescimento profissional.
 - Minha trajetória acadêmica e profissional é marcada principalmente pelo interesse de conhecer a pluraridade de grupos e suas relações sociais, por isso, sei que meu conhecimento tecnológico e meu arcabouço teórico me traz grande capacidade analítica e de insights nas áreas humanas e sociais.
   
-- 🔭 Atualmente, estou trabalhando em um projeto de pesquisa na FIOCRUZ chamado "Interfaces sobre o Racismo e o Conservadorismo no SUS na perspectivas das ACS".
+- 🔭 Atualmente, estou trabalhando em um projeto de pesquisa e produção audiovisual de um documentário na FIOCRUZ chamado "Interfaces sobre o Racismo e o Conservadorismo no SUS na perspectivas das ACS".
 - 🌱 Também faço parte do grupo de pesquisa SOMAH - Sociabilidades mais que Humanas, da Universidade Federal Rural do Rio de Janeiro.
 
 - Idioma: Inglês Nível B2.
