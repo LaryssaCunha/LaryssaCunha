@@ -1,14 +1,17 @@
-# About me: 
-- Apaixonada por pesquisas nas áreas de diversidade, cultura, territorialidades e políticas públicas.👋
+# Olá! Sou Laryssa e seja bem vinda(o) ao meu perfil!
+
+* Sobre mim:
+  - Apaixonada por pesquisas nas áreas de diversidade, cultura, territorialidades e políticas públicas.👋
   - Em meu tempo livre, curto ficar com a minha família como uma boa canceriana que sou assistindo um filminho e uma pipoca.
  
-* Sou Analista de Dados, formada pela {reprograma} em um bootcamp intensivo de 360h.
-* Graduada Ciências Socias especializada em MBA Data Science & Analytics pela USP-ESALQ.
-  * Tenho experiência com pesquisas qualitativas, quantitativas, pesquisas de campo e coleta de dados.
-  * Sou didática e tenho experiência em educação, já lecionei em escolas, cursos pré-vestibulares e ONGs.
+* Formação e experiência:
+  * Sou Analista de Dados, formada pela {reprograma} em um bootcamp intensivo de 360h.
+  * Graduada Ciências Socias especializada em MBA Data Science & Analytics pela USP-ESALQ.
+    * Tenho experiência com pesquisas qualitativas, quantitativas, pesquisas de campo e coleta de dados.
+    * Tenho didática e experiência em educação(sou licenciada), já lecionei em escolas, cursos pré-vestibulares e ONGs.
 
-- Idioma: Inglês intermediário.
-- Ferramentas: Python, R e SQL.
+* Idioma: Inglês intermediário.
+* Ferramentas: Python, R e SQL.
 
 ###
 
