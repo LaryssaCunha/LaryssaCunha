@@ -11,7 +11,7 @@
     * Tenho didática e experiência em educação(sou licenciada), já lecionei em escolas, cursos pré-vestibulares e ONGs.
 
 * Idioma: Inglês intermediário.
-* Ferramentas: Python, R e SQL.
+* Ferramentas: Python, R, SQLite, Tableau, Excel e Power Point.
 
 ###
 
