@@ -1,17 +1,14 @@
-### Olá!! Sou Laryssa Cunha! Sou cria da cidade do Rio de Janeiro, Brasil. Apaixonada por pesquisas nas áreas de diversidade, cultura, territorialidades e políticas públicas.👋
-Em meu tempo livre, curto ficar com a minha família como uma boa canceriana que sou assistindo um filminho e uma pipoca. Seja bem vinda ao meu perfil.
+# About me: 
+- Apaixonada por pesquisas nas áreas de diversidade, cultura, territorialidades e políticas públicas.👋
+  - Em meu tempo livre, curto ficar com a minha família como uma boa canceriana que sou assistindo um filminho e uma pipoca.
+ 
+* Sou Analista de Dados, formada pela {reprograma} em um bootcamp intensivo de 360h.
+* Graduada Ciências Socias especializada em MBA Data Science & Analytics pela USP-ESALQ.
+** Tenho experiência com pesquisas qualitativas, quantitativas, pesquisas de campo e coleta de dados.
+** Sou didática e tenho experiência em educação, já lecionei em escolas, cursos pré-vestibulares e ONGs.
 
-- Em minha formação, me graduei em Ciências Sociais pela UFRRJ em 2023 e tive experiência com pesquisas qualitativas, quantitativas e coleta de dados. Também pude lecionar aulas nas disciplinas de sociologia, história e filosofia em escolas públicas e particulares.
-- Após minha graduação, fui aluna da {reprograma} em um curso intensivo(360h) de Análise de Dados e Python e em 2024, obti meu diploma de Analista de Dados Júnior, conhecendo desde a teoria à prática assuntos como lógica de programação, banco de dados, SQL, Python e Tableau. Além disso, curso também era desenvolvido para o aperfeiçoamento de hard e soft skills.
-- Ainda em 2024, iniciei minha especialização na ciência de dados, cursando o MBA em Data Science & Analytics na USP/ESALQ. A especialização abarca as temáticas de Programação, coleta de dados, Big Data, Estatística, Data Wraling, Machine Learning, Business Inteligence (BI), Metodologias Ágeis, Engenharia de Dados, Cloud Compunting e outros.
-- Gosto bastante de estudar e estou sempre procurando me aprofundar mais em minhas áreas de interesse, tanto por curiosidade quanto por crescimento profissional.
-- Minha trajetória acadêmica e profissional é marcada principalmente pelo interesse de conhecer a pluraridade de grupos e suas relações sociais, por isso, sei que meu conhecimento tecnológico e meu arcabouço teórico me traz grande capacidade analítica e de insights nas áreas humanas e sociais.
-  
-- 🔭 Atualmente, estou trabalhando em um projeto de pesquisa e produção audiovisual de um documentário na FIOCRUZ chamado "Interfaces sobre o Racismo e o Conservadorismo no SUS na perspectivas das ACS".
-- 🌱 Também faço parte do grupo de pesquisa SOMAH - Sociabilidades mais que Humanas, da Universidade Federal Rural do Rio de Janeiro.
-
-- Idioma: Inglês Nível B2.
-- LFerramentas: Python, R e SQL.
+- Idioma: Inglês intermediário.
+- Ferramentas: Python, R e SQL.
 
 ###
 
