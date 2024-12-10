@@ -4,8 +4,8 @@
  
 * Sou Analista de Dados, formada pela {reprograma} em um bootcamp intensivo de 360h.
 * Graduada Ciências Socias especializada em MBA Data Science & Analytics pela USP-ESALQ.
-** Tenho experiência com pesquisas qualitativas, quantitativas, pesquisas de campo e coleta de dados.
-** Sou didática e tenho experiência em educação, já lecionei em escolas, cursos pré-vestibulares e ONGs.
+  * Tenho experiência com pesquisas qualitativas, quantitativas, pesquisas de campo e coleta de dados.
+  * Sou didática e tenho experiência em educação, já lecionei em escolas, cursos pré-vestibulares e ONGs.
 
 - Idioma: Inglês intermediário.
 - Ferramentas: Python, R e SQL.
