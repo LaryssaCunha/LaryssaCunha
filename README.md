@@ -2,7 +2,7 @@
 
 * Sobre mim:
   - Apaixonada por pesquisas nas áreas de diversidade, cultura, territorialidades e políticas públicas.👋
-  - Em meu tempo livre, curto ficar com a minha família como uma boa canceriana que sou assistindo um filminho e uma pipoca.
+  - Em meu tempo livre, curto ficar com a minha família assistindo um filminho e comendo uma pipoca.
  
 * Formação e experiência:
   * Sou Analista de Dados, formada pela {reprograma} em um bootcamp intensivo de 360h.
