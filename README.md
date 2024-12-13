@@ -1,7 +1,8 @@
 # Olá! Sou Laryssa e seja bem vinda(o) ao meu perfil!
 
 * Sobre mim:
-  - Apaixonada por pesquisas nas áreas de diversidade, cultura, territorialidades e políticas públicas.👋
+  - Apaixonada em estudar! Sou uma profissional e cientista multidisciplinar focada em diversidade, cultura, inclusão e tecnologias informacionais.👋
+  - Descrevo-me como uma hacker cívica, pois meu objetivo de vida é causar impactos sociais positivos e inclusivos, democratizando o acesso ao conhecimento e cidadania.
   - Em meu tempo livre, curto ficar com a minha família assistindo um filminho e comendo uma pipoca.
  
 * Formação e experiência:
