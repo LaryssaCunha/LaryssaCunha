@@ -1,17 +1,13 @@
 # Olá! Sou Laryssa e seja bem vinda(o) ao meu perfil!
 
 * Sobre mim:
-  - Apaixonada em estudar! Sou uma profissional e cientista multidisciplinar focada em diversidade, cultura, inclusão e tecnologias informacionais.👋
-  - Descrevo-me como uma hacker cívica, pois meu objetivo de vida é causar impactos sociais positivos e inclusivos, democratizando o acesso ao conhecimento e cidadania.
+  - Profissional e cientista multidisciplinar focada em diversidade, cultura e inclusão.👋
   - Em meu tempo livre, curto ficar com a minha família assistindo um filminho e comendo uma pipoca.
  
 * Formação e experiência:
   * Sou Analista de Dados, formada pela {reprograma} em um bootcamp intensivo de 360h.
-  * Graduada Ciências Socias especializada em MBA Data Science & Analytics pela USP-ESALQ.
-    * Tenho experiência com pesquisas qualitativas, quantitativas, pesquisas de campo e coleta de dados.
-    * Tenho didática e experiência em educação(sou licenciada), já lecionei em escolas, cursos pré-vestibulares e ONGs.
+  * Graduada Ciências Socias e mestranda em Desenvolvimento Territorial e Políticas Públicas.
 
-* Idioma: Inglês intermediário.
 * Ferramentas: Python, R, SQLite, Tableau, Excel e Power Point.
 
 ###
