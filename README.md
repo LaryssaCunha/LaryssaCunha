@@ -1,7 +1,7 @@
 # Olá! Sou Laryssa e seja bem vinda(o) ao meu perfil!
 
 * Sobre mim:
-  - Profissional e cientista multidisciplinar focada em diversidade, cultura e inclusão.👋
+  - Profissional e cientista multidisciplinar focada em diversidade e cultura.👋
   - Em meu tempo livre, curto ficar com a minha família assistindo um filminho e comendo uma pipoca.
  
 * Formação e experiência:
